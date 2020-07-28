@@ -14,7 +14,7 @@ Contact me if you want to make your idea come true, if you want me to solve any 
 
 
 
-## Find me around the web 🌎: 
-- <a href="https://richi.codes/" title="richi gallego - Freelance web developer">richi.codes - Professional site. Freelance web developer</a>
-- 💻 Professional instagram account <a href="https://www.instagram.com/richi.codes/">Instagram @richi.codes</a>
+## Find me around the web 🌎 
+- richi.codes - Professional site. <a href="https://richi.codes/" title="richi gallego - Freelance web developer">Freelance web developer</a>
+- Professional instagram account <a href="https://www.instagram.com/richi.codes/">Instagram @richi.codes</a> 💻 
 - Contact me! <a href="https://www.linkedin.com/in/richigallego/">LinkedIn</a> 💼
